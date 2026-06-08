@@ -1,6 +1,6 @@
-# 🎓 School Projects — Domingues Théo
+# School Projects — Domingues Théo
 
-Collection of academic projects in quantitative finance and Python development.
+Collection of academic projects in quantitative finance.
 
 ## Projects
 
